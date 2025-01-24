@@ -19,7 +19,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.hamcrest.Matchers.hasSize;
 
 // TODO: Activate again after TODOs are resolved
-@Disabled
+
 public class TaskBoardSystemTests extends AbstractSystemTest {
 
     @Autowired
